@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass 03</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="select_avatar">Select Avatar</string>
+    <string name="save_button">Save</string>
+</resources>
